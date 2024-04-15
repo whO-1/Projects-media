@@ -1,0 +1,15 @@
+{
+  "name": "taskapp",
+  "version": "1.0.0",
+  "description": "app for task management",
+  "main": "index.js",
+  "scripts": {
+    "test": "test "
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/whO-1/taskApp"
+  }
+}
